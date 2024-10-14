@@ -2,6 +2,7 @@
 
 Thanks for taking a look. Here's what I'm up to these days:
 
+- 🤖 Adding features to my Obsidian AI tutor plug in
 - 🎭 Putting some final touches on a poetry generator
 - 🐝 Starting to plan out a to-do app designed for those days when everything seems overwhelming
 - 🤖 Diving into learning some AI fundamentals through CS50AI
